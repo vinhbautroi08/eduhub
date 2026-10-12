@@ -1,7 +1,7 @@
 # User Stories — EduHub (Ch01)
 
 **Hệ thống:** EduHub — quản lý câu lạc bộ (CLB) và sự kiện sinh viên
-**Tác giả:** <Họ tên> — <MSSV>
+**Tác giả:** <Phan Thế Vinh> — 0024418356
 
 ## Các vai trò (actor)
 
